@@ -47,6 +47,10 @@ _*.py
 *.tar
 *.zip
 
+# Python 2 to 3 backups #
+#########################
+*.bak
+
 # Logs and databases #
 ######################
 *.log
